@@ -1,0 +1,4 @@
+pandas>=2.0
+pytest>=8.0
+pytest-cov>=7.0
+ruff>=0.17

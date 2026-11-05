@@ -1,3 +1,4 @@
+[![DataGuard CI](https://github.com/2025csjanakiabhayakumarc-ux/CDD_project/actions/workflows/ci.yml/badge.svg)](https://github.com/2025csjanakiabhayakumarc-ux/CDD_project/actions/workflows/ci.yml)
 # DataGuard
 
 A CSV data-validation engine built for **1BCS303 — Collaborative Development and DevOps** (Mini Project, Lab 14).
